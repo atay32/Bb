@@ -1,0 +1,13 @@
+{
+  "name": "Binance",
+  "short_name": "Binance",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#202630",
+  "theme_color": "#202630",
+  "icons": [
+    { "src": "bn-icon-180.png", "sizes": "180x180", "type": "image/png", "purpose": "any" },
+    { "src": "bn-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
